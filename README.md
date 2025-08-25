@@ -14,4 +14,4 @@ Frontend Engineer Portfolio Website
 
 ## Contact
 - Email: azmathkhanig@gmail.com
-- LinkedIn: [linkedin.com/in/azmath-khan](https://linkedin.com/in/azmath-khan/)
+- LinkedIn: (https://linkedin.com/in/azmath-khan/)
